@@ -4,7 +4,7 @@ import AuthLayout from "./layout/AuthLayout";
 import Admon from './layout/Admon';
 
 // paginas publicas 
-import Login from './paginas/login';
+import Login from './paginas/Login';
 import Registrar from './paginas/Registrar';
 import OlvidePassword from './paginas/OlvidePassword';
 import ConfirmarCuenta from './paginas/ConfirmarCuenta';
