@@ -1,4 +1,4 @@
-import usePacientes from "../hooks/usePAcientes";
+import usePacientes from "../hooks/usePacientes";
 const Paciente = ({paciente}) => {
     // console.log(paciente);
     const {email, fecha, nombre, propietario, sintomas, _id} = paciente

@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import Alerta from "./alerta";
+import Alerta from "./Alerta";
 import usePacientes from "../hooks/usePAcientes";
 
 const Formulario = () => {

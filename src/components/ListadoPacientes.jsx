@@ -1,4 +1,4 @@
-import usePacientes from "../hooks/usePAcientes"
+import usePacientes from "../hooks/usePacientes";
 import Paciente from "./Paciente";
 
 const ListadoPacientes = () => {
