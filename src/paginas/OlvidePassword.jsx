@@ -1,5 +1,5 @@
 import {useEffect, useState } from 'react';
-import Alerta from '../components/alerta';
+import Alerta from '../components/Alerta';
 import axios from 'axios';
 import {useParams, Link} from 'react-router-dom';
 const OlvidePassword = () => {
